@@ -18,6 +18,7 @@
 		BF301E611F0248D5006F7ABB /* theListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF301E601F0248D5006F7ABB /* theListCell.swift */; };
 		BF301E631F0260B9006F7ABB /* addViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF301E621F0260B9006F7ABB /* addViewController.swift */; };
 		BF301E651F026FA3006F7ABB /* links.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF301E641F026FA3006F7ABB /* links.swift */; };
+		BF301E671F03C8BF006F7ABB /* webViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF301E661F03C8BF006F7ABB /* webViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		BF301E601F0248D5006F7ABB /* theListCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = theListCell.swift; sourceTree = "<group>"; };
 		BF301E621F0260B9006F7ABB /* addViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = addViewController.swift; sourceTree = "<group>"; };
 		BF301E641F026FA3006F7ABB /* links.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = links.swift; sourceTree = "<group>"; };
+		BF301E661F03C8BF006F7ABB /* webViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = webViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				BF301E5E1F023BAD006F7ABB /* theMainList.swift */,
 				BF301E641F026FA3006F7ABB /* links.swift */,
 				BF301E2F1F023A89006F7ABB /* Main.storyboard */,
+				BF301E661F03C8BF006F7ABB /* webViewController.swift */,
 				BF301E601F0248D5006F7ABB /* theListCell.swift */,
 				BF301E351F023A89006F7ABB /* Assets.xcassets */,
 				BF301E371F023A89006F7ABB /* LaunchScreen.storyboard */,
@@ -274,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF301E671F03C8BF006F7ABB /* webViewController.swift in Sources */,
 				BF301E2C1F023A89006F7ABB /* AppDelegate.swift in Sources */,
 				BF301E611F0248D5006F7ABB /* theListCell.swift in Sources */,
 				BF301E5F1F023BAD006F7ABB /* theMainList.swift in Sources */,
